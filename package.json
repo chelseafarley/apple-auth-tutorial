@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "expo": "~48.0.4",
+    "expo-apple-authentication": "~6.0.1",
+    "expo-dev-client": "~2.1.4",
+    "expo-secure-store": "~12.1.1",
     "expo-status-bar": "~1.4.4",
+    "jwt-decode": "^3.1.2",
     "react": "18.2.0",
     "react-native": "0.71.3"
   },
